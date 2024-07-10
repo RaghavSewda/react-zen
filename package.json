@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "(https://github.com/RaghavSewda/react-zen)"
+    "url": "https://github.com/RaghavSewda/react-zen"
   },
   "author": "Raghav",
   "license": "ISC",
@@ -20,6 +20,6 @@
     "react-dom": "^18.3.1"
   },
   "browserslist": [
-    "last 2 versions"
+    "last 2 Chrome versions"
   ]
 }
