@@ -35,12 +35,12 @@
 - - Address
 - - Contact
 
-Two types of Export/Import
+<b> Two types of Export/Import </b>
 
-Default Export/Import
--export default Component;
--import Component from "path";
+- Default Export/Import
+- - export default Component;
+- - import Component from "path";
 
-Named Export/Import
--export const Component;
--import {Component} from "path";
+- Named Export/Import
+- - export const Component;
+- - import {Component} from "path";
