@@ -45,7 +45,26 @@
 - - export const Component;
 - - import {Component} from "path";
 
-
 # 2 types of Routing in web apps
+
 - Client Side Routing
 - Server Side Routing
+
+# Redux Toolkit
+
+- Install @reduxjs/tookit and react-redux
+- Build our store
+- Connect our store to our app
+- Slice (cartSlice)
+- dispatch (action)
+- Selector
+
+# Seting up Testing in our app
+
+- Install React Testing Library
+- Installed Jest
+- Installed Babel Dependencies
+- Configure Babel
+- Configure Parcel Config file to disable default babel transpilation
+- Jest - npx jest -init
+- Install jsdom library
